@@ -1,0 +1,8 @@
+total 24
+-rw-r--r-- 1 pi pi  312 Apr  3 02:33 a.py
+-rw-r--r-- 1 pi pi  246 Apr  3 01:56 b.py
+-rw-r--r-- 1 pi pi  131 Apr  3 13:19 cl1.py
+-rw-r--r-- 1 pi pi  538 Apr  3 12:38 c.py
+-rw-r--r-- 1 pi pi  123 Apr  3 13:11 d.py
+-rw-r--r-- 1 pi pi 1341 Apr  3 02:13 rfcomm.py
+-rw-r--r-- 1 pi pi    0 Apr  3 13:19 test.txt
